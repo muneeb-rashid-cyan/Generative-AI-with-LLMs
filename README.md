@@ -10,7 +10,7 @@ By taking this course, you'll learn to:
 
 Developers who have a good foundational understanding of how LLMs work, as well the best practices behind training and deploying them, will be able to make good decisions for their companies and more quickly build working prototypes. This course will support learners in building practical intuition about how to best utilize this exciting new technology.
 
-## Week 1
+## TASK 1
 Generative AI use cases, project lifecycle, and model pre-training
 
 ### Learning Objectives
@@ -22,7 +22,7 @@ Generative AI use cases, project lifecycle, and model pre-training
 
 
 
-## Week 2
+## Task2 
 Fine-tuning and evaluating large language models
 
 ### Learning Objectives
@@ -33,7 +33,7 @@ Fine-tuning and evaluating large language models
 - Explain how fine-tuning with instructions using prompt datasets can increase LLM performance on one or more 
 
 
-## Week 3
+## Task 3
 Reinforcement learning and LLM-powered applications
 
 ### Learning Objectives
